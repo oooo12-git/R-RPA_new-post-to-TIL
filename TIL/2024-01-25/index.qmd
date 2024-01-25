@@ -1,0 +1,68 @@
+---
+title: "TIL on THU"
+date: 2024-01-25
+categories: [python,new]
+page-navigation: true
+lightbox: 
+  match: auto
+  desc-position: right
+language: 
+  ko-KR:
+   title-block-modified: "수정"
+toc: true
+---
+
+::: {.content-visible when-profile="ko"}
+
+
+### section title
+
+
+- section author
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+:::
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+:::
+
+:::
+
+
+::: {.content-visible when-profile="en"}
+
+
+### section title
+
+
+- section author
+
+
+::: {layout-ncol=2}
+
+
+![](./images/Scan.jpeg){group="my-gallery"}
+
+
+:::{.callout-note}
+:::
+
+![](./images/Scan 1.jpeg){group="my-gallery"}
+
+:::{.callout-note}
+:::
+
+:::
+
+:::
